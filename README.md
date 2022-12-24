@@ -1,6 +1,6 @@
 # Homebrew Tap for ssh-agent-filter
 
-ssh-agent-filter homebrew tap repository for macOS.
+[ssh-agent-filter](https://git.tiwe.de/ssh-agent-filter.git) homebrew tap repository for macOS.
 
 ## Requirements
 
